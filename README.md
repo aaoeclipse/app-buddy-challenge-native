@@ -36,7 +36,7 @@ View the complete design documentation here: [Figma Design](https://www.figma.co
 
 1. Clone the repository
 ```bash
-git clone [your-repo-url]
+git clone https://github.com/aaoeclipse/app-buddy-challenge-native
 ```
 
 Install dependencies
